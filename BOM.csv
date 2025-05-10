@@ -1,0 +1,24 @@
+Reference;Qty;Value;Footprint;Price (1pc);Sum for (1pc price);Price (1000pcs);Sum for (1000pc price) [USD];Datasheet
+AAA-BT1,AAA-BT2,AAA-BT3;3;1.5V;Battery:BatteryHolder_Keystone_2466_1xAAA;0,52;0,52;0,333;0,333;~
+C1,C4,C7;3;0.1µF;Capacitor_SMD:C_0805_2012Metric;0,004;0,012;0,0036;0,0108;~
+C2,C3;2;1µF;Capacitor_SMD:C_0805_2012Metric;0,004;0,008;0,0036;0,0072;~
+D1;1;LED;LED_THT:LED_D3.0mm_FlatTop;0,02;0,02;0,018;0,018;~
+D2;1;1N4007;Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal;0,008;0,008;0,005;0,005;http://www.vishay.com/docs/88503/1n4001.pdf
+J1;1;Screw_Terminal_01x02;TerminalBlock_Phoenix:TerminalBlock_Phoenix_MKDS-1,5-2_1x02_P5.00mm_Horizontal;0,0894;0,0894;0,0591;0,0591;~
+K1;1;G5Q-1A;Relay_THT:Relay_SPST_Omron-G5Q-1A;0,9036;0,9036;0,5468;0,5468;https://www.omron.com/ecb/products/pdf/en-g5q.pdf
+Q2;1;2N3904;Package_TO_SOT_THT:TO-92_Inline;0,0115;0,0115;0,0077;0,0077;https://www.onsemi.com/pub/Collateral/2N3903-D.PDF
+R2;1;1k;Resistor_SMD:R_0805_2012Metric;0,0018;0,0018;0,0014;0,0014;~
+R3;1;470;Resistor_SMD:R_0805_2012Metric;0,0018;0,0018;0,0014;0,0014;~
+R4;1;150;Resistor_SMD:R_0805_2012Metric;0,0018;0,0018;0,0014;0,0014;~
+R5;1;36k;Resistor_SMD:R_0805_2012Metric;0,0018;0,0018;0,0014;0,0014;~
+R6;1;100k;Resistor_SMD:R_0805_2012Metric;0,0018;0,0018;0,0014;0,0014;~
+R7,R8;2;10k;Resistor_SMD:R_0805_2012Metric;0,0018;0,0036;0,0014;0,0028;~
+SW1;1;SW_Push;Button_Switch_SMD:SW_SPST_CK_RS282G05A3;0,796;0,796;0,2918;0,2918;~
+SW2;1;SW_Push;Button_Switch_SMD:SW_SPST_PTS647_Sx70;0,1925;0,1925;0,1243;0,1243;~
+U1;1;ATmega328P-A;Package_QFP:TQFP-32_7x7mm_P0.8mm;2,1871;2,1871;1,5494;1,5494;http://ww1.microchip.com/downloads/en/DeviceDoc/ATmega328_P%20AVR%20MCU%20with%20picoPower%20Technology%20Data%20Sheet%2040001984A.pdf
+U2;1;PC817;Package_DIP:DIP-4_W7.62mm;0,0341;0,0341;0,0185;0,0185;http://www.soselectronic.cz/a_info/resource/d/pc817.pdf
+U3;1;MCP1700x-330xxTT;Package_TO_SOT_SMD:SOT-23;0,3705;0,3705;0,2257;0,2257;http://ww1.microchip.com/downloads/en/DeviceDoc/20001826D.pdf
+;;;;;;;;
+PCB Manufacturing;1;;;5;5;1;1;
+;;;;;Estimate for 5 pcs;;Estimate for 1000 pcs;
+;;;;Total Sum;10,1683;USD;4,2071;USD
